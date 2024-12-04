@@ -24,7 +24,7 @@ Driver4VR Fully/Partially supports:<br>
 - Webcam FBT<br>
 - And More!<br>
 </p>
----
+
 # Don't want to pay for Driver4VR? Use this!
 Mediapipe VR Fullbody Tracking is a good alternative to Driver4VR. You can download it at https://github.com/ju1ce/Mediapipe-VR-Fullbody-Tracking?tab=readme-ov-file<br>
 Mediapipe VR supports Quest, Quest 2, and of course HollowVR (and other mobile and non-mobile VR headsets too)<br>
