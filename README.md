@@ -8,7 +8,7 @@ I made this because I (used) to not have a VR Device. Many others have this prob
 
 
 <p>HollowVR (as of 11/30/2024) fully supports [Driver4VR!](https://www.driver4vr.com/)
-Instructions for setting up Driver4VR can be found in the wiki. You can use: (credit to [Driver4VR on Steam](https://store.steampowered.com/app/1366950/Driver4VR/))<br>
+Instructions for setting up Driver4VR can be found in the wiki. You can use: (credit to [Driver4VR on Steam]([https://store.steampowered.com/app/1366950/Driver4VR/]<br>
 
 💪 Body tracking<br>
 👋 Head & hand tracking<br>
